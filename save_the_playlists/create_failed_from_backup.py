@@ -10,7 +10,8 @@ def main():
 
     playlist, tracks = read_backup(playlist_name)
 
-    dump_playlist_with_uris('failed', playlist, list(map(lambda t: t.uri, tracks)))
+    dump_playlist_with_uris('failed', playlist,
+                            list(map(lambda t: t.uri, tracks)))
 
 
 if __name__ == '__main__':

@@ -7,7 +7,8 @@ from utils.directories import make_failed_dir, make_success_dir
 
 def update_playlist(client, username, playlist, fixed_track_uris):
     # Spotipy currently fails with local URIs
-    if any(uri.startswith(LOCAL_URI) for uri in fixed_track_uris) or not fixed_track_uris:
+    if any(uri.startswith(LOCAL_URI)
+           for uri in fixed_track_uris) or not fixed_track_uris:
         logging.info(f'Failed to update {playlist.name}!')
         make_failed_dir()
         result = 'failed'

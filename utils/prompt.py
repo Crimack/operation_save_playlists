@@ -52,7 +52,8 @@ def _safe_prompt(prompt_string, num_options):
 
 if __name__ == '__main__':
     o = Track({}, 'a', 'b', 'c')
-    opt = [{},
+    opt = [
+        {},
         Track({}, 'a', 'B', 'c'),
         Track({}, 'A', 'BB', 'cccc'),
         Track({}, 'A', 'dsadsad', 'ewq'),
