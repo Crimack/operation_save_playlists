@@ -1,0 +1,99 @@
+type,original,replacement
+NAME,Robots w/Guns,Robots With Guns
+ARTIST,PSY-CO-BILLY,PSY
+NAME,Gangnam Style 1,Gangnam Style
+NAME,Gangnam Style,Gangnam Style (강남스타일)
+ALBUM,Gangnam Style,Gangnam Style (강남스타일)
+ALBUM,Undertow',Undertow
+ARTIST,The Toadies,Toadies
+ALBUM,Siamese Dream,Siamese Dream (2011 - Remaster)
+ALBUM,Songs For The Deaf [UK],Songs For The Deaf
+ALBUM,Rated R,Rated R - Deluxe Edition
+ALBUM,Lullabies To Paralyze [UK Only Version],Lullabies To Paralyze
+ALBUM,…Like Clockwork,...Like Clockwork
+ALBUM,Era Vulgaris (Limited 2CD Edition),Era Vulgaris
+ALBUM,One Day As a Lion - EP,One Day As a Lion EP
+ALBUM,Nevermind,Nevermind (Deluxe Edition)
+ARTIST,Mark Lanegan Band,Mark Lanegan
+ALBUM,Above,Above (Deluxe Edition)
+ALBUM,Vivid,Vivid (Expanded Edition)
+ALBUM,So Real: Songs From Jeff Buckley,So Real: Songs from Jeff Buckley (Expanded Edition)
+ALBUM,The Black & White Album,The Black and White album
+ALBUM,One By One,One By One (Expanded Edition)
+NAME,Roadside Blues,Roadhouse Blues
+ALBUM,Decade in the Sun,Decade In The Sun - Best Of Stereophonics
+ALBUM,Superunknown,Superunknown (Super Deluxe)
+ALBUM,I'm Shipping Up To Boston,The Warrior's Code
+NAME,Guerilla Radio,Guerrilla Radio
+ALBUM,Blizzard Of Ozz,Blizzard Of Ozz (Expanded Edition)
+ALBUM,Sky Valley,Welcome To Sky Valley
+ARTIST,Stevie Ray Vaughan and Double Trouble,Stevie Ray Vaughan
+ALBUM,Texas Flood,Texas Flood (Legacy Edition)
+ALBUM,Out of Exile (UK Version),Out Of Exile
+ALBUM,King Animal (Plus) [+digital booklet],King Animal (Deluxe Version)
+ALBUM,The Last Days of Oakland [Explicit],The Last Days of Oakland
+NAME,3's and 7's,3's & 7's
+NAME,Da Art Of Storytellin'\, Pt. 1,Da Art of Storytellin' (Pt. 1)
+NAME,Da Art Of Storytellin'\, Pt. 2,Da Art of Storytellin' (Pt. 2)
+ALBUM,The Dock Of The Bay: The Definitive Collection,The Dock of the Bay
+NAME,How To Handle A Rope,How to Handle a Rope (A Lesson in the Lariat)
+ALBUM,Their Law (The Singles 1990-2005),Their Law The Singles 1990 - 2005
+ARTIST,The Jimi Hendrix Experience,Jimi Hendrix
+ALBUM,Are You Experienced?,Are You Experienced
+NAME,U.R.A. Fever,U.R.A Fever
+NAME,This Is A Circus,This House Is A Circus
+ALBUM,The Colour and the Shape (Special Edition),The Colour And The Shape
+ALBUM,Whatever People Say I Am\, That`s What I`m Not (Limited Edition),Whatever People Say I Am\, That's What I'm Not
+ALBUM,Weezer (Green Album),Weezer
+ALBUM,Barton Hollow (Deluxe Version),Barton Hollow
+ALBUM,Into The Wild,Into The Wild (Music For The Motion Picture)
+NAME,Galaxie,Galaxie / Hello\, Goodbye
+ALBUM,Mellon Collie And The Infinite Sadness,Mellon Collie And The Infinite Sadness (Deluxe Edition)
+NAME,In the Fade,In The Fade/Feel Good Hit Of The Summer (Reprise)
+ALBUM,Singles OST,Singles - Original Motion Picture Soundtrack
+ALBUM,Screaming Life / Fopp,Screaming Life/Fopp
+ALBUM,Songs From The Superunknown,Echo Of Miles: Scattered Tracks Across The Path
+ALBUM,Fresh Deadly Rarities,Echo Of Miles: Scattered Tracks Across The Path
+NAME,5 Million Ways to KIll a CEO,5 Million Ways To Kill A C.E.O.
+NAME,Ghetto Musick,GhettoMusick
+NAME,Electric Avenue,Electric Avennue
+NAME,Hoochie Coochie,Hoochie Coochie - Lindstrom Mix 2
+ALBUM,The Ghetto Blaster,Ghettoblaster Mini Album
+ALBUM,Revolutions Per Minute,Rpm10
+NAME,Lover\, You Should Have Come Over,Lover\ You Should've Come Over
+ALBUM,Greatest Hits\, Vol. 1 & 2,Greatest Hits Volume I & Volume II
+ALBUM,Greatest Hits Volume III,Greatest Hits Vol. III
+ALBUM,Songbook (Live),Songbook
+ALBUM,HearYa Live Session 3/25/12,Bhiman
+ARTIST,B.B. King & Eric Clapton,Eric Clapton\, B.B. King
+ALBUM,Live 1975-85,Bruce Springsteen & The E Street Band Live 1975-85
+NAME,Sick Sick Sick,Sick\, Sick\, Sick
+NAME,Hangin' Tree,Hanging Tree
+NAME,Brain of J,Brain of J.
+NAME,God Is On The Radio,God Is In The Radio
+ALBUM,Ultramega OK,Ultramega OK (Expanded Reissue)
+ALBUM,Brothers In Arms [Remastered Version],Brothers In Arms
+ARTIST,Bob Seger & the Silver Bullet Band,Bob Seger
+NAME,Mind Eraser (No Chaser),Mind Eraser\, No Chaser
+NAME,You Know My Name (From "Casino Royale"),You Know My Name - From "Casino Royale" Soundtrack
+ALBUM,You Know My Name (From "Casino Royale") - Single,You Know My Name
+ALBUM,Very Best Of Sting & The Police,The Very Best Of Sting And The Police
+ALBUM,Siren Song Of The Counter Culture [Bonus Track],Siren Song Of The Counter-Culture
+NAME,Just A Day,Just a Day - Edit
+NAME,Rock And Roll All Night,Rock And Roll All Nite
+ALBUM,Suck It And See (Japan Edition),Suck It And See
+NAME,Truckdrivin' Neighbors Downstairs (Yellow Sweat),Truckdrivin Neighbors Downstairs (Yellow Sweat)
+ALBUM,Best Of Van Halen\, Vol.1,Best of Volume 1
+NAME,Come Together (Beatles Cover),Come Together
+NAME,Everything,Everythang
+NAME,Yeh Jo Halka Halka Saroor Hai,Yeh Jo Halka Halka Saroor Hae
+NAME,Godsmack,God Smack
+NAME,Pretty Fly,Pretty Fly (For A White Guy)
+NAME,The Downeaster "Alexa",The Downeaster 'Alexa'
+ALBUM,Chronicle\, Vol. 1: The 20 Greatest Hits UK,Chronicle: 20 Greatest Hits (Ecopac)
+NAME,Fake Tales Of San Fransisco,Fake Tales Of San Francisco
+NAME,Fuckin' With My Head (Mountain Dew Rock),Fuckin With My Head (Mountain Dew Rock)
+ALBUM,Rubberneck,Live at Billy Bob's Texas (Deluxe Edition)
+ALBUM,Ocean of Confusion,Ocean Of Confusion - Songs Of Screaming Trees 1990-1996
+ALBUM,'81 - Single,'81
+NAME,2x4,2 X 4

@@ -1,0 +1,6 @@
+.cache*
+.idea/
+backup/
+results/
+success/
+*.pyc
